@@ -16,7 +16,7 @@ Excited to share my latest project—a **Tic-Tac-Toe web application** developed
 ✅ **Smooth Animations** – Enhanced with CSS for a better experience.  
 
 🔗 **Play the live game here:** [Tic-Tac-Toe Live](https://tic-tak-toe-x-o.netlify.app/)  
-🔗 **GitHub Repository:** [[GitHub Link]  ](https://github.com/puravdhanki/PRODIGY_WD_03)
+🔗 **GitHub Repository:** [GitHub Link]  (https://github.com/puravdhanki/PRODIGY_WD_03)
 
 ### 🚀 My Experience  
 I really enjoyed working on this project as part of my internship at **[@Prodigy Infotech](https://www.linkedin.com/company/prodigy-infotech/)**. The game logic, UI responsiveness, and overall smoothness were my key focus areas.  
