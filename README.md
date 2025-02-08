@@ -1,6 +1,6 @@
 # PRODIGY_WD_03
 
-Here’s your **LinkedIn post and GitHub README** merged into a single polished description:  
+ 
 
 ---
 
